@@ -1,5 +1,5 @@
 # PyVMHunt
-Experimental implementation of vmhunt
+Experimental implementation of vmhunt. 64-bit support.
 # Trace
 I traced the binary with triton
 ``` asm

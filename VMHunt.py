@@ -1758,9 +1758,7 @@ class SEEngine:
                 else:
                     self.print_depth("unknown opr type", depth)
         return
-    
-
-
+        
     def dumpreg(self, reg):
         depth = 0
         v = self.ctx[reg]
